@@ -1,5 +1,5 @@
 # subtitle-shifter
-Small python script to shift an SRT-file with a given value.
+Small python script to shift a SubRip-file with a given value.
 
 ## Usage
 ```
